@@ -16,6 +16,7 @@ h2 {
     display: flex;
     justify-content: center;
     margin: 0; /* Remove margin */
+    margin-top: 0;
 }
 
 h2 span {
