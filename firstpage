@@ -1,3 +1,11 @@
+echo "# blog" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/cottersoft/blog.git
+git push -u origin main
+
 $ mkdir my-website
 
 $ git clone https://github.com/cottersoft/blog.github.io
