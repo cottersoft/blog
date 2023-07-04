@@ -2,7 +2,6 @@ h1 {
     display: flex;
     justify-content: center;
     margin: 0; /* Remove margin */
-    margin-bottom: 0;
 }
 
 h1 span {
